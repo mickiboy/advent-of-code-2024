@@ -7,3 +7,9 @@ In this repository, you'll find my solutions to the
 
 First, I started by writing the unit test. Conveniently, there's an example
 list, which I used here, so I can easily test if my function works.
+
+## Day 2
+
+I feel embarrassed it took me this long to see all edge cases. And here I
+thought just writing the unit tests first and implement afterwards would be
+enough. What a fool I am!
